@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c334973cef89a9840b0b0c507e0377ab
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285209
+  packageName: Vuforia Digital Eyewear Sample
+  packageVersion: 11.2.4
+  assetPath: Assets/Common/TextMesh Pro/Shaders/TMPro_Mobile.cginc
+  uploadId: 754465

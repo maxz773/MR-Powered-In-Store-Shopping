@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 23b587ac3c62d114d8b3a463c9a496bd
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285209
+  packageName: Vuforia Digital Eyewear Sample
+  packageVersion: 11.2.4
+  assetPath: Assets/SampleResources/AugmentationAssets/Materials/Rocks/Rock.mat
+  uploadId: 754465

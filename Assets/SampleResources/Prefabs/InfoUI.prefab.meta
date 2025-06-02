@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e89bf61a3d76a194392c3d9708f539d4
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285209
+  packageName: Vuforia Digital Eyewear Sample
+  packageVersion: 11.2.4
+  assetPath: Assets/SampleResources/Prefabs/InfoUI.prefab
+  uploadId: 754465

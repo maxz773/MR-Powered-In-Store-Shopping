@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f380cc22e13f6cc45822bbf4072b4920
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285209
+  packageName: Vuforia Digital Eyewear Sample
+  packageVersion: 11.2.4
+  assetPath: Assets/SampleResources/Scenes/1-ImageTargets.unity
+  uploadId: 754465

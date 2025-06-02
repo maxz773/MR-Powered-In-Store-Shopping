@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fc373d9b39a416f438ca99ae10f8d3de
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285209
+  packageName: Vuforia Digital Eyewear Sample
+  packageVersion: 11.2.4
+  assetPath: Assets/Editor/Vuforia/ForPrint/MultiTarget/mars_box_USLetter.pdf
+  uploadId: 754465

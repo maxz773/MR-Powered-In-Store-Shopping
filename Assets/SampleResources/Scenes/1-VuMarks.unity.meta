@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a16963dac4debad4d85c2028cc434484
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285209
+  packageName: Vuforia Digital Eyewear Sample
+  packageVersion: 11.2.4
+  assetPath: Assets/SampleResources/Scenes/1-VuMarks.unity
+  uploadId: 754465

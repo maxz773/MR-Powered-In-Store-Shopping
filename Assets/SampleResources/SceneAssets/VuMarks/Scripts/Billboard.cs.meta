@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 6e38f0ceede44d04a82a728fa467f9f0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285209
+  packageName: Vuforia Digital Eyewear Sample
+  packageVersion: 11.2.4
+  assetPath: Assets/SampleResources/SceneAssets/VuMarks/Scripts/Billboard.cs
+  uploadId: 754465

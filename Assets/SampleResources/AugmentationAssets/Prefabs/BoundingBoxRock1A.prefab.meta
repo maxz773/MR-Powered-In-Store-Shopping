@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e97d6a118947dac4e96fbe92263be28e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285209
+  packageName: Vuforia Digital Eyewear Sample
+  packageVersion: 11.2.4
+  assetPath: Assets/SampleResources/AugmentationAssets/Prefabs/BoundingBoxRock1A.prefab
+  uploadId: 754465

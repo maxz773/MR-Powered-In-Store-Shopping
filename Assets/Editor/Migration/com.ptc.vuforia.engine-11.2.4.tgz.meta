@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b9bea28ecf480467596a97a8e6b92835
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285209
+  packageName: Vuforia Digital Eyewear Sample
+  packageVersion: 11.2.4
+  assetPath: Assets/Editor/Migration/com.ptc.vuforia.engine-11.2.4.tgz
+  uploadId: 754465

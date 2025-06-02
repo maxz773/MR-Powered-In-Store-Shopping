@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 79f8d28763e349ee813c3413bc794423
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285209
+  packageName: Vuforia Digital Eyewear Sample
+  packageVersion: 11.2.4
+  assetPath: Assets/StreamingAssets/Vuforia/Vuforia_Marslander_RZR_Toy_Advanced.dat
+  uploadId: 754465

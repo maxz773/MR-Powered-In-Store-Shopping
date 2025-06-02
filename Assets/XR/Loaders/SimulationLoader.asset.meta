@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8d53c33ad581bc4439d8cdf32935d768
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285209
+  packageName: Vuforia Digital Eyewear Sample
+  packageVersion: 11.2.4
+  assetPath: Assets/XR/Loaders/SimulationLoader.asset
+  uploadId: 754465

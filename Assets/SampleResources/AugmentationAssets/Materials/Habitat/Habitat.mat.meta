@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 18052333ae14de84897a93b5a84ee203
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285209
+  packageName: Vuforia Digital Eyewear Sample
+  packageVersion: 11.2.4
+  assetPath: Assets/SampleResources/AugmentationAssets/Materials/Habitat/Habitat.mat
+  uploadId: 754465

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 641eb9b43c636dd4b8beca7b1ada27e5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285209
+  packageName: Vuforia Digital Eyewear Sample
+  packageVersion: 11.2.4
+  assetPath: Assets/Resources/VuforiaHoloLensMRTKProfile.asset
+  uploadId: 754465

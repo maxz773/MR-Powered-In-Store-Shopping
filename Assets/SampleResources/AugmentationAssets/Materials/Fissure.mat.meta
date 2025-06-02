@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 176b1f3fa54a38547be7e6670915aa3c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285209
+  packageName: Vuforia Digital Eyewear Sample
+  packageVersion: 11.2.4
+  assetPath: Assets/SampleResources/AugmentationAssets/Materials/Fissure.mat
+  uploadId: 754465

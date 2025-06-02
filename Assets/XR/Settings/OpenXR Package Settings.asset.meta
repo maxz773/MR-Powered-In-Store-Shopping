@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fae40547c1482ac4c94b3d781a86b3f6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285209
+  packageName: Vuforia Digital Eyewear Sample
+  packageVersion: 11.2.4
+  assetPath: Assets/XR/Settings/OpenXR Package Settings.asset
+  uploadId: 754465

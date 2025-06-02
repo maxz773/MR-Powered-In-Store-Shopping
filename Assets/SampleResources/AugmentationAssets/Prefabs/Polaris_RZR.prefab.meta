@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 56cd2eea941c87e489517e25ad83b3d8
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285209
+  packageName: Vuforia Digital Eyewear Sample
+  packageVersion: 11.2.4
+  assetPath: Assets/SampleResources/AugmentationAssets/Prefabs/Polaris_RZR.prefab
+  uploadId: 754465

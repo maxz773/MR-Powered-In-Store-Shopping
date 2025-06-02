@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 99302903183f87e4fad480e1e92e4c02
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285209
+  packageName: Vuforia Digital Eyewear Sample
+  packageVersion: 11.2.4
+  assetPath: Assets/MRTK.Generated/MRTKSettings.asset
+  uploadId: 754465

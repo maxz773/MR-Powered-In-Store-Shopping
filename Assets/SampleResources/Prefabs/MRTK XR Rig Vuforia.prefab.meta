@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3754b72ab1d8e494ab20fbaeb0be0c32
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 285209
+  packageName: Vuforia Digital Eyewear Sample
+  packageVersion: 11.2.4
+  assetPath: Assets/SampleResources/Prefabs/MRTK XR Rig Vuforia.prefab
+  uploadId: 754465
