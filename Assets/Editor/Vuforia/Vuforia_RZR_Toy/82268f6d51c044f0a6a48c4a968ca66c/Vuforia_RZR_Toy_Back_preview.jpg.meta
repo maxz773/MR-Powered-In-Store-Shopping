@@ -4,9 +4,9 @@ AssetOrigin:
   serializedVersion: 1
   productId: 285209
   packageName: Vuforia Digital Eyewear Sample
-  packageVersion: 11.2.4
+  packageVersion: 11.3.4
   assetPath: Assets/Editor/Vuforia/Vuforia_RZR_Toy/82268f6d51c044f0a6a48c4a968ca66c/Vuforia_RZR_Toy_Back_preview.jpg
-  uploadId: 754465
+  uploadId: 764486
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}

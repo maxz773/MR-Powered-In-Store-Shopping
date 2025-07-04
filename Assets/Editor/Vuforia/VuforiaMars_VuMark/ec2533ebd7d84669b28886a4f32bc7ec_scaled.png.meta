@@ -4,9 +4,9 @@ AssetOrigin:
   serializedVersion: 1
   productId: 285209
   packageName: Vuforia Digital Eyewear Sample
-  packageVersion: 11.2.4
+  packageVersion: 11.3.4
   assetPath: Assets/Editor/Vuforia/VuforiaMars_VuMark/ec2533ebd7d84669b28886a4f32bc7ec_scaled.png
-  uploadId: 754465
+  uploadId: 764486
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}

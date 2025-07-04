@@ -4,9 +4,9 @@ AssetOrigin:
   serializedVersion: 1
   productId: 285209
   packageName: Vuforia Digital Eyewear Sample
-  packageVersion: 11.2.4
+  packageVersion: 11.3.4
   assetPath: Assets/Editor/Vuforia/CylinderTargetTextures/VuforiaMars_Images/RocketBooster.Top_scaled.jpg
-  uploadId: 754465
+  uploadId: 764486
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}

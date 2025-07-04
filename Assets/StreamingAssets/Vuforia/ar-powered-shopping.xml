@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<QCARConfig>
+    <Tracking>
+        <VuMark name="pcbvumark-horizontal" size="0.1 0.026406914403753493" />
+    </Tracking>
+</QCARConfig>

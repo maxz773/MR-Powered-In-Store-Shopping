@@ -11,7 +11,7 @@
     "com.magicleap.unitysdk": "file:com.magicleap.unitysdk.tgz",
     "com.magicleap.mrtk3": "file:com.magicleap.mrtk3-1.4.0.tgz",
     "com.microsoft.spatialaudio.spatializer.unity": "file:MixedReality/com.microsoft.spatialaudio.spatializer.unity-2.0.55.tgz",
-    "com.ptc.vuforia.engine": "file:com.ptc.vuforia.engine-11.2.4.tgz",
+    "com.ptc.vuforia.engine": "file:com.ptc.vuforia.engine-11.3.4.tgz",
     "com.unity.2d.sprite": "1.0.0",
     "com.unity.2d.tilemap": "1.0.0",
     "com.unity.ai.navigation": "2.0.7",

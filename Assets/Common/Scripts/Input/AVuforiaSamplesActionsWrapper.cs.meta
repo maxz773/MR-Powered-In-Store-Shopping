@@ -4,6 +4,6 @@ AssetOrigin:
   serializedVersion: 1
   productId: 285209
   packageName: Vuforia Digital Eyewear Sample
-  packageVersion: 11.2.4
+  packageVersion: 11.3.4
   assetPath: Assets/Common/Scripts/Input/AVuforiaSamplesActionsWrapper.cs
-  uploadId: 754465
+  uploadId: 764486

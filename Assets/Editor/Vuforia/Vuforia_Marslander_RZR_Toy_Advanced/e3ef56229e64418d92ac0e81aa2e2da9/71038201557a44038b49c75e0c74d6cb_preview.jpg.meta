@@ -4,9 +4,9 @@ AssetOrigin:
   serializedVersion: 1
   productId: 285209
   packageName: Vuforia Digital Eyewear Sample
-  packageVersion: 11.2.4
+  packageVersion: 11.3.4
   assetPath: Assets/Editor/Vuforia/Vuforia_Marslander_RZR_Toy_Advanced/e3ef56229e64418d92ac0e81aa2e2da9/71038201557a44038b49c75e0c74d6cb_preview.jpg
-  uploadId: 754465
+  uploadId: 764486
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
