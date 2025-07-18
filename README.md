@@ -1,2 +1,2 @@
-# AR-Powered-In-Store-Shopping
+# MR-Powered-In-Store-Shopping
 
